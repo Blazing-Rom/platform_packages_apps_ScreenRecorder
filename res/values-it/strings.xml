@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Registra schermo</string>
+
+    <string name="notification_recording_title">Registrazione in corso</string>
+
+    <string name="notification_recording_finished_title">Registrazione salvata</string>
+    <string name="notification_recording_finished_text">Tocca per vedere %s</string>
+
+    <string name="notification_recording_error_title">Registrazione fallita</string>
+    <string name="notification_recording_error_text">%s</string>
+
+    <string name="notification_video_processing_title">Elaborazione video registrato</string>
+    <string name="notification_video_finished_title">Registrazione finita</string>
+
+    <string name="notification_action_stop_recording">Ferma registrazione</string>
+    <string name="notification_action_show_touch">Tocca per mostrare</string>
+
+    <string name="error_unable_to_create_directory">Impossibile creare directory di output.</string>
+    <string name="error_external_storage_unavailable">Memoria esterna non disponibile.</string>
+    <string name="error_unable_to_start">Impossibile iniziare la registrazione.</string>
+
+</resources>
