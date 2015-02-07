@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Запись экрана</string>
+
+    <string name="notification_recording_title">Выполняется запись экрана</string>
+
+    <string name="notification_recording_finished_title">Запись экрана сохранена</string>
+    <string name="notification_recording_finished_text">Нажмите для просмотра %s</string>
+
+    <string name="notification_recording_error_title">Ошибка записи экрана</string>
+    <string name="notification_recording_error_text">%s</string>
+
+    <string name="notification_video_processing_title">Обработка записанного видео</string>
+    <string name="notification_video_finished_title">Запись завершена</string>
+
+    <string name="notification_action_stop_recording">Остановить запись</string>
+    <string name="notification_action_show_touch">Показывать нажатия</string>
+
+    <string name="error_unable_to_create_directory">Невозможно создать каталог вывода.</string>
+    <string name="error_external_storage_unavailable">Нет доступного внешнего устройства.</string>
+    <string name="error_unable_to_start">Невозможно начать запись.</string>
+
+</resources>
